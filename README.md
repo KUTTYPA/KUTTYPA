@@ -6,7 +6,7 @@
 - ## 🔗 Research Portfolio on Notion
 
 📖 Explore my interactive project documentation and research updates here:  
-👉 [View on Notion](https://www.notion.so/your-public-link](https://denim-pea-0f2.notion.site/Portfolio-2357bc7b0aee80e6874ed76058d5e402)
+👉 [View on Notion] (https://denim-pea-0f2.notion.site/Portfolio-2357bc7b0aee80e6874ed76058d5e402)
 
 <!---
 KUTTYPA/KUTTYPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
